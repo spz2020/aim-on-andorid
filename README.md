@@ -1,7 +1,7 @@
 # aim-on-andorid
 Run classic Windows AIM on Android 5+
 # Tutorial
-1: Download AIM Client [https://github.com/spz2020/aim-on-andorid/releases/download/aim/aim513036.exe]
+1: Download AIM Client [https://github.com/spz2020/aim-on-andorid/releases/download/aim/aim513036.exe] and copy to /sdcard/Exagear
 
 2: Download Exagear [https://github.com/XHYN-PH/exagear-302]
 
