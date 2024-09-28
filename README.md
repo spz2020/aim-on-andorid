@@ -76,3 +76,8 @@ Modify the information
 # Enjoy it
 
 # Server [WIP]
+
+- [Retro AIM Server](https://github.com/mk6i/retro-aim-server) - Run your own server for AIM 5.0-5.9!
+- [AIM Oscar Server](https://github.com/ox/aim-oscar-server) - Run your own server for AIM 3.0 and older! [A old client needs to be downloaded](https://runningman.network/public/downloads/aim35.exe)
+- [AIM Phoenix](https://iwarg.ddns.net/) - AIM service with a small, active community.
+- [Running Man Instant Messenger Network](https://runningman.network/) - AIM service for AIM 3.0 and older [A old client needs to be downloaded](https://runningman.network/public/downloads/aim35.exe)
