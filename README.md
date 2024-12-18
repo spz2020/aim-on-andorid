@@ -81,3 +81,4 @@ Modify the information
 - [AIM Oscar Server](https://github.com/ox/aim-oscar-server) - Run your own server for AIM 3.0 and older! [A old client needs to be downloaded](https://runningman.network/public/downloads/aim35.exe)
 - [AIM Phoenix](https://iwarg.ddns.net/) - AIM service with a small, active community.
 - [Running Man Instant Messenger Network](https://runningman.network/) - AIM service for AIM 3.0 and older [A old client needs to be downloaded](https://runningman.network/public/downloads/aim35.exe)
+- [NINA](https://nina.chat/) - Classic Client Revival service that has support for AIM, including this version.
